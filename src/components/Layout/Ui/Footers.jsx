@@ -51,7 +51,10 @@ const Footers = () => {
                   </NavLink>
                 </li>
                 <li>
-                  <NavLink to="" target="_blank">
+                  <NavLink
+                    to="https://github.com/Suyash2300/React-World-Api"
+                    target="_blank"
+                  >
                     Source Code
                   </NavLink>
                 </li>

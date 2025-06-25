@@ -12,11 +12,11 @@ const HeroSection = () => {
           </h1>
           <p className="paragraph">
             Discover the history, culture, and beauty of every nation. Sort,
-            Search, and fiter through countries to find the details need.
+            Search, and filter through countries to find the details need.
           </p>
           <NavLink to="/Country">
             <button className="btn btn-darken btn-inline bg-white-box">
-              Start Exokoring
+              Start Exploring
               <FaLongArrowAltRight />
             </button>
           </NavLink>
