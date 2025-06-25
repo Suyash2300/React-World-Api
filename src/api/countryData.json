@@ -1,0 +1,121 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States",
+      "capital": "Washington, D.C.",
+      "continent": "North America",
+      "population": 331000000,
+      "currency": "US Dollar (USD)",
+      "official_language": "English",
+      "famous_for": "Silicon Valley, Hollywood, NASA",
+      "independence_day": "July 4, 1776",
+      "major_export": "Technology, Aircraft, Pharmaceuticals",
+      "landmark": "Statue of Liberty"
+    },
+    {
+      "id": 2,
+      "name": "India",    
+      "capital": "New Delhi",
+      "continent": "Asia",
+      "population": 1400000000,
+      "currency": "Indian Rupee (INR)",
+      "official_language": "Hindi, English",
+      "famous_for": "Diverse culture, Taj Mahal, Bollywood",
+      "independence_day": "August 15, 1947",
+      "major_export": "IT services, Textiles, Pharmaceuticals",
+      "landmark": "Taj Mahal"
+    },
+    {
+      "id": 3,
+      "name": "China",
+      "capital": "Beijing",
+      "continent": "Asia",
+      "population": 1410000000,
+      "currency": "Renminbi (Yuan, CNY)",
+      "official_language": "Mandarin Chinese",
+      "famous_for": "Great Wall, Manufacturing hub",
+      "independence_day": "October 1, 1949",
+      "major_export": "Electronics, Machinery, Clothing",
+      "landmark": "Great Wall of China"
+    },
+    {
+      "id": 4,
+      "name": "Germany",
+      "capital": "Berlin",
+      "continent": "Europe",
+      "population": 83000000,
+      "currency": "Euro (EUR)",
+      "official_language": "German",
+      "famous_for": "Automobiles, Engineering, Oktoberfest",
+      "independence_day": "October 3, 1990",
+      "major_export": "Cars, Machinery, Chemicals",
+      "landmark": "Brandenburg Gate"
+    },
+    {
+      "id": 5,
+      "name": "Japan",
+      "capital": "Tokyo",
+      "continent": "Asia",
+      "population": 125000000,
+      "currency": "Japanese Yen (JPY)",
+      "official_language": "Japanese",
+      "famous_for": "Technology, Sushi, Anime",
+      "independence_day": "May 3, 1947",
+      "major_export": "Vehicles, Electronics, Robotics",
+      "landmark": "Mount Fuji"
+    },
+    {
+      "id": 6,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "continent": "South America",
+      "population": 213000000,
+      "currency": "Brazilian Real (BRL)",
+      "official_language": "Portuguese",
+      "famous_for": "Carnival, Amazon Rainforest, Football",
+      "independence_day": "September 7, 1822",
+      "major_export": "Soybeans, Iron Ore, Oil",
+      "landmark": "Christ the Redeemer"
+    },
+    {
+      "id": 7,
+      "name": "France",
+      "capital": "Paris",
+      "continent": "Europe",
+      "population": 67000000,
+      "currency": "Euro (EUR)",
+      "official_language": "French",
+      "famous_for": "Fashion, Wine, Eiffel Tower",
+      "independence_day": "July 14, 1789",
+      "major_export": "Aircraft, Luxury Goods, Wine",
+      "landmark": "Eiffel Tower"
+    },
+    {
+      "id": 8,
+      "name": "Australia",
+      "capital": "Canberra",
+      "continent": "Australia",
+      "population": 26000000,
+      "currency": "Australian Dollar (AUD)",
+      "official_language": "English",
+      "famous_for": "Great Barrier Reef, Kangaroos, Beaches",
+      "independence_day": "January 26, 1901",
+      "major_export": "Iron Ore, Coal, Education",
+      "landmark": "Sydney Opera House"
+    },
+    {
+      "id": 9,
+      "name": "Russia",
+      "capital": "Moscow",
+      "continent": "Europe/Asia",
+      "population": 144000000,
+      "currency": "Russian Ruble (RUB)",
+      "official_language": "Russian",
+      "famous_for": "Vodka, Ballet, Space Program",
+      "independence_day": "June 12, 1990",
+      "major_export": "Oil, Natural Gas, Weapons",
+      "landmark": "Kremlin"
+    }
+  ]
+}
